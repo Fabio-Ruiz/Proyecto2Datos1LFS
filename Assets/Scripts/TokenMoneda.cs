@@ -23,21 +23,37 @@ public class TokenMoneda : MonoBehaviour
     {
         if (recogido) return;
 
-        // Intentar obtener cualquiera de los dos tipos de movimiento que heredan de PlayerBase
-        var magoMov = jugador.GetComponent<MagoOscuroMovement>();
-        var huargenMov = jugador.GetComponent<HuargenMovement>();
-
-        // Actualizar puntaje y árbol según el tipo de jugador
-        PlayerBase player = magoMov as PlayerBase ?? huargenMov as PlayerBase;
-        
-        if (player != null && player.ArbolJugador != null)
+        if (jugador == null)
         {
-            player.ArbolJugador.Insert(valor);  // Insertar en el árbol
-            player.AgregarPuntaje(valor);       // Actualizar puntaje
-            
-            Debug.Log($"Token de valor {valor} insertado en el árbol del jugador {jugador.name}");
+            Debug.LogError("Jugador es null en Recolectar");
+            return;
+        }
+
+        Debug.Log($"Intentando recolectar token con {jugador.name} (Tag: {jugador.tag})");
+        PlayerBase player = jugador.GetComponent<PlayerBase>();
+        
+        if (player == null)
+        {
+            Debug.LogError($"No se encontró PlayerBase en {jugador.name}");
+            return;
+        }
+
+        if (player.Tree == null)
+        {
+            Debug.LogError($"El árbol no está inicializado en {jugador.name}");
+            return;
+        }
+
+        Debug.Log($"Recolección exitosa. Valor: {valor}");
+        try
+        {
+            player.HandleTokenCollection(valor);
             recogido = true;
             Destroy(gameObject);
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError($"Error al procesar token: {e.Message}\nStackTrace: {e.StackTrace}");
         }
     }
 

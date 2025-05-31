@@ -9,7 +9,7 @@ public class ValueInputFieldController : MonoBehaviour
     void Start()
     {
         inputField = GetComponent<TMP_InputField>();
-        treeManager = FindObjectOfType<TreeManager>();
+        treeManager = FindFirstObjectByType<TreeManager>();
 
         // Configurar el input field
         ConfigureInputField();

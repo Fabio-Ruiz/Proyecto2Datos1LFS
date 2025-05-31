@@ -9,7 +9,7 @@ public class TreeTypeDropdownController : MonoBehaviour
     void Start()
     {
         dropdown = GetComponent<TMP_Dropdown>();
-        treeManager = FindObjectOfType<TreeManager>();
+        treeManager = FindFirstObjectByType<TreeManager>();
 
         // Clear and add options
         dropdown.ClearOptions();

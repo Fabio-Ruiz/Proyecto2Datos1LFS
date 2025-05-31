@@ -11,7 +11,7 @@ public class StatusTextController : MonoBehaviour
     void Start()
     {
         statusText = GetComponent<TMP_Text>();
-        treeManager = FindObjectOfType<TreeManager>();
+        treeManager = FindFirstObjectByType<TreeManager>();
         ConfigureStatusText();
     }
 

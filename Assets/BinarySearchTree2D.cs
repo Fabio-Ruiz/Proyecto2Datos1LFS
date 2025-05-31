@@ -20,223 +20,232 @@ public class BSTNode
 
 public class BinarySearchTree2D : MonoBehaviour, ITree
 {
-    public GameObject nodePrefab;  // Changed from [SerializeField] to public
-    [SerializeField] private float horizontalSpacing = 1.5f;
-    [SerializeField] private float verticalSpacing = 1f;
-    [SerializeField] private Color lineColor = Color.white;
-    [SerializeField] private float lineWidth = 0.1f;
+    [Header("Visual Settings")]
+    [SerializeField] protected GameObject nodePrefab;
+    [SerializeField] protected float horizontalSpacing = 1.5f;
+    [SerializeField] protected float verticalSpacing = 1.0f;
+    [SerializeField] protected Color nodeColor = Color.white;
+    [SerializeField] protected Color lineColor = Color.white;
+    
+    protected BSTNode root;
+    protected List<GameObject> nodeObjects = new List<GameObject>();
+    protected List<LineRenderer> lines = new List<LineRenderer>();
 
-    private BSTNode root;
-    private List<GameObject> nodeObjects = new();
+    protected virtual void Start()
+    {
+        InitializeTree();
+    }
 
-    // Implementaci�n de ITree
+    protected virtual void OnNodeInserted(int value)
+    {
+        Debug.Log($"Node inserted: {value}");
+        UpdateVisualization();
+    }
+
     public void Insert(int value)
     {
-        root = InsertRecursive(root, value);
-        VisualizeTree();
+        if (root == null)
+            root = new BSTNode(value);
+        else
+            InsertRec(root, value);
+
+        OnNodeInserted(value);
     }
 
-    public bool Search(int value)
-    {
-        return SearchRecursive(root, value);
-    }
-
-    public void Delete(int value)
-    {
-        root = DeleteRecursive(root, value);
-        VisualizeTree();
-    }
-
-    public void ClearTree()
+    protected virtual void InitializeTree()
     {
         root = null;
         ClearVisualization();
     }
 
-    public void CreateExampleTree()
-    {
-        ClearTree();
-        foreach (int val in new[] { 50, 30, 70, 20, 40, 60, 80 })
-        {
-            Insert(val);
-        }
-    }
-
-    // ======================
-    // L�gica interna del BST
-    // ======================
-
-    private BSTNode InsertRecursive(BSTNode current, int value)
-    {
-        if (current == null)
-            return new BSTNode(value);
-
-        if (value < current.value)
-            current.leftChild = InsertRecursive(current.leftChild, value);
-        else if (value > current.value)
-            current.rightChild = InsertRecursive(current.rightChild, value);
-
-        return current;
-    }
-
-    private bool SearchRecursive(BSTNode current, int value)
-    {
-        if (current == null)
-            return false;
-        if (current.value == value)
-            return true;
-        return value < current.value
-            ? SearchRecursive(current.leftChild, value)
-            : SearchRecursive(current.rightChild, value);
-    }
-
-    private BSTNode DeleteRecursive(BSTNode node, int value)
-    {
-        if (node == null) return null;
-
-        if (value < node.value)
-        {
-            node.leftChild = DeleteRecursive(node.leftChild, value);
-        }
-        else if (value > node.value)
-        {
-            node.rightChild = DeleteRecursive(node.rightChild, value);
-        }
-        else
-        {
-            // Nodo encontrado
-            if (node.leftChild == null) return node.rightChild;
-            if (node.rightChild == null) return node.leftChild;
-
-            BSTNode minLargerNode = FindMin(node.rightChild);
-            node.value = minLargerNode.value;
-            node.rightChild = DeleteRecursive(node.rightChild, minLargerNode.value);
-        }
-
-        return node;
-    }
-
-    private BSTNode FindMin(BSTNode node)
-    {
-        while (node.leftChild != null)
-            node = node.leftChild;
-        return node;
-    }
-
-    // ======================
-    // Visualizaci�n
-    // ======================
-
-    private void VisualizeTree()
+    protected virtual void VisualizeTree()
     {
         ClearVisualization();
         if (root != null)
         {
-            CalculatePositions(root, Vector2.zero, horizontalSpacing);
-            CreateNodeObjects(root);
+            CalculateNodePositions(root, Vector2.zero, horizontalSpacing);
+            CreateVisualNodes();
+            DrawConnections();
         }
     }
 
-    private void CalculatePositions(BSTNode node, Vector2 position, float spacing)
+    // Change UpdateVisualization to use VisualizeTree
+    protected void UpdateVisualization()
     {
-        if (node == null) return;
-
-        node.position = position;
-        float childSpacing = spacing * 0.5f;
-
-        if (node.leftChild != null)
-        {
-            CalculatePositions(node.leftChild, position + new Vector2(-spacing, -verticalSpacing), childSpacing);
-        }
-
-        if (node.rightChild != null)
-        {
-            CalculatePositions(node.rightChild, position + new Vector2(spacing, -verticalSpacing), childSpacing);
-        }
+        VisualizeTree();
     }
 
-    private void CreateNodeObjects(BSTNode node)
-    {
-        if (node == null) return;
-
-        Vector3 worldPos = new Vector3(node.position.x, node.position.y, 0);
-        GameObject nodeObj = Instantiate(nodePrefab, worldPos, Quaternion.identity, transform);
-
-        nodeObj.transform.SetParent(transform);
-        nodeObj.name = "Node_" + node.value;
-
-        nodeObj.GetComponent<SpriteRenderer>().color = Color.red;
-
-
-        NodeUI nodeUI = nodeObj.GetComponent<NodeUI>();
-        if (nodeUI != null)
-        {
-            nodeUI.SetValue(node.value);
-        }
-
-
-        nodeObjects.Add(nodeObj);
-
-        if (node.leftChild != null)
-        {
-            DrawLine(node.position, node.leftChild.position);
-            CreateNodeObjects(node.leftChild);
-        }
-
-        if (node.rightChild != null)
-        {
-            DrawLine(node.position, node.rightChild.position);
-            CreateNodeObjects(node.rightChild);
-        }
-    }
-
-    private void DrawLine(Vector2 start, Vector2 end)
-    {
-        GameObject lineObj = new GameObject("Line");
-        lineObj.transform.SetParent(transform);
-        LineRenderer line = lineObj.AddComponent<LineRenderer>();
-        line.sortingOrder = -1;
-
-        line.startColor = lineColor;
-        line.endColor = lineColor;
-        line.startWidth = lineWidth;
-        line.endWidth = lineWidth;
-        line.positionCount = 2;
-        line.SetPosition(0, new Vector3(start.x, start.y, 0));
-        line.SetPosition(1, new Vector3(end.x, end.y, 0));
-        line.material = new Material(Shader.Find("Sprites/Default"));
-    }
-
-    private void ClearVisualization()
+    protected void ClearVisualization()
     {
         foreach (var obj in nodeObjects)
-        {
-            if (obj != null)
-                Destroy(obj);
-        }
+            Destroy(obj);
+        foreach (var line in lines)
+            Destroy(line.gameObject);
+            
         nodeObjects.Clear();
+        lines.Clear();
+    }
 
-        foreach (Transform child in transform)
+    protected void CalculateNodePositions(BSTNode node, Vector2 position, float horizontalOffset)
+    {
+        node.position = position;
+
+        if (node.leftChild != null)
+            CalculateNodePositions(node.leftChild, 
+                new Vector2(position.x - horizontalOffset, position.y - verticalSpacing), 
+                horizontalOffset * 0.5f);
+
+        if (node.rightChild != null)
+            CalculateNodePositions(node.rightChild, 
+                new Vector2(position.x + horizontalOffset, position.y - verticalSpacing), 
+                horizontalOffset * 0.5f);
+    }
+
+    protected virtual void CreateVisualNodes()  // Added virtual keyword here
+    {
+        void CreateNodeVisual(BSTNode node)
         {
-            if (child.name.StartsWith("Line"))
-                Destroy(child.gameObject);
+            if (node == null) return;
+
+            GameObject nodeObj = Instantiate(nodePrefab, 
+                (Vector3)node.position + transform.position, 
+                Quaternion.identity, 
+                transform);
+            
+            var tmpText = nodeObj.GetComponent<TMPro.TextMeshPro>();
+            if (tmpText != null)
+            {
+                tmpText.text = node.value.ToString();
+                tmpText.alignment = TMPro.TextAlignmentOptions.Center;
+                tmpText.fontSize = 3;
+                tmpText.color = Color.black;
+                tmpText.sortingOrder = 1;
+            }
+
+            nodeObjects.Add(nodeObj);
+
+            CreateNodeVisual(node.leftChild);
+            CreateNodeVisual(node.rightChild);
+        }
+
+        CreateNodeVisual(root);
+    }
+
+    protected void DrawConnections()
+    {
+        void DrawNodeConnections(BSTNode node)
+        {
+            if (node == null) return;
+
+            void DrawLine(Vector2 from, Vector2 to)
+            {
+                GameObject lineObj = new GameObject("Line");
+                lineObj.transform.parent = transform;
+                
+                LineRenderer lr = lineObj.AddComponent<LineRenderer>();
+                lr.startWidth = 0.05f;  // Reduced from 0.1f
+                lr.endWidth = 0.05f;    // Reduced from 0.1f
+                lr.material = new Material(Shader.Find("Sprites/Default"));
+                lr.startColor = lr.endColor = lineColor;
+                
+                // Adjust line positions to start from text center
+                Vector3 startPos = (Vector3)from + transform.position;
+                Vector3 endPos = (Vector3)to + transform.position;
+                
+                lr.SetPosition(0, startPos);
+                lr.SetPosition(1, endPos);
+                
+                lines.Add(lr);
+            }
+
+            if (node.leftChild != null)
+                DrawLine(node.position, node.leftChild.position);
+            if (node.rightChild != null)
+                DrawLine(node.position, node.rightChild.position);
+
+            DrawNodeConnections(node.leftChild);
+            DrawNodeConnections(node.rightChild);
+        }
+
+        DrawNodeConnections(root);
+    }
+
+    public bool Search(int value)
+    {
+        return SearchRec(root, value);
+    }
+
+    private bool SearchRec(BSTNode node, int value)
+    {
+        if (node == null) return false;
+        if (node.value == value) return true;
+        
+        if (value < node.value)
+            return SearchRec(node.leftChild, value);
+        return SearchRec(node.rightChild, value);
+    }
+
+    public void Delete(int value)
+    {
+        root = DeleteRec(root, value);
+        UpdateVisualization();
+    }
+
+    private BSTNode DeleteRec(BSTNode node, int value)
+    {
+        if (node == null) return null;
+
+        if (value < node.value)
+            node.leftChild = DeleteRec(node.leftChild, value);
+        else if (value > node.value)
+            node.rightChild = DeleteRec(node.rightChild, value);
+        else
+        {
+            if (node.leftChild == null)
+                return node.rightChild;
+            if (node.rightChild == null)
+                return node.leftChild;
+
+            node.value = MinValue(node.rightChild);
+            node.rightChild = DeleteRec(node.rightChild, node.value);
+        }
+        return node;
+    }
+
+    private int MinValue(BSTNode node)
+    {
+        int minv = node.value;
+        while (node.leftChild != null)
+        {
+            minv = node.leftChild.value;
+            node = node.leftChild;
+        }
+        return minv;
+    }
+
+    public void CreateExampleTree()
+    {
+        ClearTree();
+        int[] values = new int[] { 10, 5, 15, 3, 7, 12, 17 };
+        foreach (int value in values)
+        {
+            Insert(value);
         }
     }
 
     public int CalcularProfundidad()
     {
-        return CalcularProfundidadRecursivo(root);
+        return CalculateDepthRec(root);
     }
 
-    private int CalcularProfundidadRecursivo(BSTNode node)
+    private int CalculateDepthRec(BSTNode node)
     {
-        if (node == null)
-            return 0;
+        if (node == null) return 0;
         
-        int izquierda = CalcularProfundidadRecursivo(node.leftChild);
-        int derecha = CalcularProfundidadRecursivo(node.rightChild);
+        int leftDepth = CalculateDepthRec(node.leftChild);
+        int rightDepth = CalculateDepthRec(node.rightChild);
         
-        return Math.Max(izquierda, derecha) + 1;
+        return Math.Max(leftDepth, rightDepth) + 1;
     }
 
     public BSTNode GetRoot()
@@ -247,5 +256,29 @@ public class BinarySearchTree2D : MonoBehaviour, ITree
     public AVLNode GetRootAVL()
     {
         throw new System.NotImplementedException("Este método es solo para árboles AVL");
+    }
+
+    public void ClearTree()
+    {
+        root = null;
+        ClearVisualization();
+    }
+
+    private void InsertRec(BSTNode node, int value)
+    {
+        if (value < node.value)
+        {
+            if (node.leftChild == null)
+                node.leftChild = new BSTNode(value);
+            else
+                InsertRec(node.leftChild, value);
+        }
+        else
+        {
+            if (node.rightChild == null)
+                node.rightChild = new BSTNode(value);
+            else
+                InsertRec(node.rightChild, value);
+        }
     }
 }

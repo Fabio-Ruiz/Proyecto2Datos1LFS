@@ -23,34 +23,84 @@ public class AVLNode
 
 public class AVLTree : MonoBehaviour, ITree
 {
-    public GameObject nodePrefab;
-    public float horizontalSpacing = 2.0f;
-    public float verticalSpacing = 1.5f;
-    private AVLNode root;
-    private Dictionary<AVLNode, Vector2> nodePositions = new();
-    private List<GameObject> lineRenderers = new();
+    [Header("AVL Tree Settings")]
+    [SerializeField] protected GameObject nodePrefab;
+    [SerializeField] protected float horizontalSpacing = 1.0f;  // Reducido de 1.5f
+    [SerializeField] protected float verticalSpacing = 0.8f;    // Reducido de 1.0f
+    
+    protected AVLNode root;
+    protected Dictionary<AVLNode, Vector2> nodePositions = new();
+    protected List<GameObject> lineRenderers = new();
 
-    public void Insert(int value)
+    protected virtual void Start()
+    {
+        if (nodePrefab == null)
+        {
+            Debug.LogError("NodePrefab no está asignado en AVLTree");
+            return;
+        }
+
+        // Solo limpiar el árbol al inicio
+        ClearTree();
+        UpdateVisualization();
+    }
+
+    private void OnDestroy()
+    {
+        ClearTree();
+    }
+
+    private void OnDisable()
+    {
+        ClearTree();
+    }
+
+    public virtual void Insert(int value)
     {
         root = InsertNode(root, value);
         UpdateVisualization();
     }
-    public bool Search(int value) => SearchNode(root, value);
-    public void Delete(int value)
+
+    public virtual bool Search(int value) => SearchNode(root, value);
+
+    public virtual void Delete(int value)
     {
         root = DeleteNode(root, value);
         UpdateVisualization();
     }
-    public void ClearTree()
+
+    public virtual void ClearTree()
     {
-        ClearVisualization();
+        // Primero destruir todos los GameObjects
+        if (root != null)
+        {
+            VisitAllNodes(root, (node) => {
+                if (node.nodeObject != null)
+                {
+                    Destroy(node.nodeObject);
+                }
+            });
+        }
+
+        foreach (var line in lineRenderers)
+        {
+            if (line != null)
+                Destroy(line);
+        }
+
+        // Luego limpiar todas las estructuras de datos
         root = null;
+        nodePositions.Clear();
+        lineRenderers.Clear();
+        
+        // Forzar actualización visual
+        UpdateVisualization();
+        
+        Debug.Log($"Tree cleared for {gameObject.name}");
     }
+    // Método vacío - no queremos crear un árbol de ejemplo
     public void CreateExampleTree()
     {
-        ClearTree();
-        foreach (int val in new[] { 10, 20, 30, 40, 50, 25, 5 })
-            Insert(val);
     }
 
     // L�gica del AVL
@@ -178,7 +228,7 @@ public class AVLTree : MonoBehaviour, ITree
     }
 
     // VISUALIZACI�N
-    private void UpdateVisualization()
+    protected virtual void UpdateVisualization()
     {
         ClearVisualization();
         nodePositions.Clear();
@@ -187,10 +237,12 @@ public class AVLTree : MonoBehaviour, ITree
         VisualizeLines(root);
     }
 
-    private void CalculateNodePositions(AVLNode node, float x, int depth, HashSet<int> usedX)
+    protected void CalculateNodePositions(AVLNode node, float x, int depth, HashSet<int> usedX)
     {
         if (node == null) return;
-        float y = -depth * verticalSpacing;
+        
+        float startY = 3f; // Reducido de 4f para bajar la posición inicial
+        float y = startY - (depth * verticalSpacing);
 
         CalculateNodePositions(node.leftChild, x - horizontalSpacing / (depth + 1), depth + 1, usedX);
 
@@ -203,25 +255,41 @@ public class AVLTree : MonoBehaviour, ITree
         CalculateNodePositions(node.rightChild, x + horizontalSpacing / (depth + 1), depth + 1, usedX);
     }
 
-    private void VisualizeNodes(AVLNode node)
+    protected void VisualizeNodes(AVLNode node)
     {
         if (node == null) return;
 
         Vector2 position = nodePositions[node];
         node.nodeObject = Instantiate(nodePrefab, new Vector3(position.x, position.y, 0), Quaternion.identity, transform);
-        node.nodeObject.GetComponent<SpriteRenderer>().color = Color.blue;
 
+        // Configure TextMeshPro
+        var tmpText = node.nodeObject.GetComponent<TMPro.TextMeshPro>();
+        if (tmpText != null)
+        {
+            tmpText.text = node.value.ToString();
+            tmpText.fontSize = 3;  // Mantener mismo tamaño que BST
+            tmpText.alignment = TMPro.TextAlignmentOptions.Center;
+            tmpText.color = Color.black;
+            tmpText.sortingOrder = 1;
+        }
 
-        NodeUI nodeUI = node.nodeObject.GetComponent<NodeUI>();
-        if (nodeUI != null)
-            nodeUI.SetValue(node.value);
+        // Ajustar tamaño del fondo
+        var background = new GameObject("Background");
+        background.transform.parent = node.nodeObject.transform;
+        background.transform.localPosition = Vector3.zero;
+        
+        var spriteRenderer = background.AddComponent<SpriteRenderer>();
+        spriteRenderer.sprite = Resources.Load<Sprite>("Square");
+        spriteRenderer.color = Color.white;
+        spriteRenderer.sortingOrder = 0;
+        background.transform.localScale = new Vector3(0.4f, 0.4f, 1f); // Reducido de 0.5f
 
         VisualizeNodes(node.leftChild);
         VisualizeNodes(node.rightChild);
     }
 
 
-    private void VisualizeLines(AVLNode node)
+    protected void VisualizeLines(AVLNode node)
     {
         if (node == null) return;
 
@@ -242,31 +310,37 @@ public class AVLTree : MonoBehaviour, ITree
         LineRenderer line = lineObj.AddComponent<LineRenderer>();
         line.sortingOrder = -1;
 
-        line.startWidth = 0.05f;
-        line.endWidth = 0.05f;
+        line.startWidth = 0.05f;  // Mismo ancho que BST
+        line.endWidth = 0.05f;    // Mismo ancho que BST
         line.positionCount = 2;
-        line.SetPosition(0, new Vector3(start.x, start.y, 0));  // z = 0
+        line.SetPosition(0, new Vector3(start.x, start.y, 0));
         line.SetPosition(1, new Vector3(end.x, end.y, 0));
         line.material = new Material(Shader.Find("Sprites/Default"));
-        line.startColor = Color.black;
-        line.endColor = Color.black;
+        line.startColor = Color.white; // Cambiado a blanco para igualar BST
+        line.endColor = Color.white;   // Cambiado a blanco para igualar BST
         lineRenderers.Add(lineObj);
     }
 
     private void ClearVisualization()
     {
-        VisitAllNodes(root, (node) =>
+        if (root != null)
         {
-            if (node.nodeObject != null)
-                Destroy(node.nodeObject);
-        });
-
-        foreach (GameObject line in lineRenderers)
-        {
-            if (line != null)
-                Destroy(line);
+            ClearNodes(root);
         }
-        lineRenderers.Clear();
+    }
+
+    private void ClearNodes(AVLNode node)
+    {
+        if (node == null) return;
+        
+        ClearNodes(node.leftChild);
+        ClearNodes(node.rightChild);
+        
+        if (node.nodeObject != null)
+        {
+            Destroy(node.nodeObject);
+            node.nodeObject = null;
+        }
     }
 
     private void VisitAllNodes(AVLNode node, Action<AVLNode> action)

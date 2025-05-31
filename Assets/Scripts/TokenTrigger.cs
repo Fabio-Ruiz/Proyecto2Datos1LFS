@@ -6,10 +6,13 @@ public class TokenTrigger : MonoBehaviour
 
     private void Start()
     {
-        // Try to get component from parent's parent (Token -> CoinGold)
-        if (transform.parent != null && transform.parent.parent != null)
+        // Primero intentar obtener del padre inmediato
+        tokenMoneda = transform.parent?.GetComponent<TokenMoneda>();
+        
+        // Si no se encuentra, buscar en la estructura Token -> CoinGold
+        if (tokenMoneda == null && transform.parent != null)
         {
-            Transform coinGold = transform.parent.parent.Find("CoinGold");
+            Transform coinGold = transform.parent.Find("CoinGold");
             if (coinGold != null)
             {
                 tokenMoneda = coinGold.GetComponent<TokenMoneda>();
@@ -18,14 +21,25 @@ public class TokenTrigger : MonoBehaviour
         
         if (tokenMoneda == null)
         {
-            Debug.LogError($"TokenMoneda component not found. Hierarchy should be: Token -> CoinGold (TokenMoneda) -> DetectorCollision (TokenTrigger)");
+            Debug.LogError($"TokenMoneda no encontrado para {gameObject.name}. " +
+                         "Verifica la jerarquía del objeto.", gameObject);
         }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (tokenMoneda != null && (other.CompareTag("Player") || other.CompareTag("Player2")))
+        if (tokenMoneda == null)
         {
+            Debug.LogError("TokenMoneda es null en " + gameObject.name);
+            return;
+        }
+        
+        // Añadir más logging para debug
+        Debug.Log($"Colisión detectada con {other.name} (Tag: {other.tag})");
+        
+        if (other.CompareTag("Player") || other.CompareTag("Player2") || other.CompareTag("Player3"))
+        {
+            Debug.Log($"Token collected by {other.tag}!");
             tokenMoneda.Recolectar(other.gameObject);
         }
     }
