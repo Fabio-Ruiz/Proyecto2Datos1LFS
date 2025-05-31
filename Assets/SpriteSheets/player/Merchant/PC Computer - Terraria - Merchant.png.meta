@@ -1,0 +1,1967 @@
+fileFormatVersion: 2
+guid: e5eb9eb8f3b5d844dbc9362ef2174c45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1270648997891604476
+    second: PC Computer - Terraria - Merchant_0
+  - first:
+      213: -241715926912297023
+    second: PC Computer - Terraria - Merchant_1
+  - first:
+      213: -3994899217676214547
+    second: PC Computer - Terraria - Merchant_2
+  - first:
+      213: 6317197601065814199
+    second: PC Computer - Terraria - Merchant_3
+  - first:
+      213: -7635902613243318622
+    second: PC Computer - Terraria - Merchant_4
+  - first:
+      213: 7138874851665854276
+    second: PC Computer - Terraria - Merchant_5
+  - first:
+      213: 6641473746685093318
+    second: PC Computer - Terraria - Merchant_6
+  - first:
+      213: -8838123572219821910
+    second: PC Computer - Terraria - Merchant_7
+  - first:
+      213: -3877441835719296310
+    second: PC Computer - Terraria - Merchant_8
+  - first:
+      213: -3929029236996029808
+    second: PC Computer - Terraria - Merchant_9
+  - first:
+      213: 2467099084634180871
+    second: PC Computer - Terraria - Merchant_10
+  - first:
+      213: 6514071127938220973
+    second: PC Computer - Terraria - Merchant_11
+  - first:
+      213: -4822899442878022260
+    second: PC Computer - Terraria - Merchant_12
+  - first:
+      213: 4503449118579842533
+    second: PC Computer - Terraria - Merchant_13
+  - first:
+      213: 5740348907110085646
+    second: PC Computer - Terraria - Merchant_14
+  - first:
+      213: 2182668700350234316
+    second: PC Computer - Terraria - Merchant_15
+  - first:
+      213: -2056293707098759829
+    second: PC Computer - Terraria - Merchant_16
+  - first:
+      213: -2830069688816369806
+    second: PC Computer - Terraria - Merchant_17
+  - first:
+      213: 6480231690011751374
+    second: PC Computer - Terraria - Merchant_18
+  - first:
+      213: -8943191610100465048
+    second: PC Computer - Terraria - Merchant_19
+  - first:
+      213: 1529827561008661639
+    second: PC Computer - Terraria - Merchant_20
+  - first:
+      213: 5976327985932314791
+    second: PC Computer - Terraria - Merchant_21
+  - first:
+      213: -7929426418389535172
+    second: PC Computer - Terraria - Merchant_22
+  - first:
+      213: 5048626473997074
+    second: PC Computer - Terraria - Merchant_23
+  - first:
+      213: -683390541838090602
+    second: PC Computer - Terraria - Merchant_24
+  - first:
+      213: -4681429999051244535
+    second: PC Computer - Terraria - Merchant_25
+  - first:
+      213: 5759335194425768922
+    second: PC Computer - Terraria - Merchant_26
+  - first:
+      213: -7030796592265839583
+    second: PC Computer - Terraria - Merchant_27
+  - first:
+      213: -2928775173614548451
+    second: PC Computer - Terraria - Merchant_28
+  - first:
+      213: -4893926847059722079
+    second: PC Computer - Terraria - Merchant_29
+  - first:
+      213: 6762404404767831057
+    second: PC Computer - Terraria - Merchant_30
+  - first:
+      213: 6553828623696643902
+    second: PC Computer - Terraria - Merchant_31
+  - first:
+      213: 2089510373966066717
+    second: PC Computer - Terraria - Merchant_32
+  - first:
+      213: 10844002837795806
+    second: PC Computer - Terraria - Merchant_33
+  - first:
+      213: 1184790026351838688
+    second: PC Computer - Terraria - Merchant_34
+  - first:
+      213: 7985662950514335061
+    second: PC Computer - Terraria - Merchant_35
+  - first:
+      213: -1285705235125822485
+    second: PC Computer - Terraria - Merchant_36
+  - first:
+      213: 5448256887934032181
+    second: PC Computer - Terraria - Merchant_37
+  - first:
+      213: -4877344354650167722
+    second: PC Computer - Terraria - Merchant_38
+  - first:
+      213: -2585790589255279336
+    second: PC Computer - Terraria - Merchant_39
+  - first:
+      213: -4589519422809065808
+    second: PC Computer - Terraria - Merchant_40
+  - first:
+      213: 7463351220493263027
+    second: PC Computer - Terraria - Merchant_41
+  - first:
+      213: 5673489591574190547
+    second: PC Computer - Terraria - Merchant_42
+  - first:
+      213: 4195757049982194684
+    second: PC Computer - Terraria - Merchant_43
+  - first:
+      213: -7805543964309099215
+    second: PC Computer - Terraria - Merchant_44
+  - first:
+      213: -276705879105537954
+    second: PC Computer - Terraria - Merchant_45
+  - first:
+      213: -8081060702543184050
+    second: PC Computer - Terraria - Merchant_46
+  - first:
+      213: -7426455939924968090
+    second: PC Computer - Terraria - Merchant_47
+  - first:
+      213: 2302101754512829283
+    second: PC Computer - Terraria - Merchant_48
+  - first:
+      213: 4789688852370560352
+    second: PC Computer - Terraria - Merchant_49
+  - first:
+      213: 6206090286335027800
+    second: PC Computer - Terraria - Merchant_50
+  - first:
+      213: -5071079496835787149
+    second: PC Computer - Terraria - Merchant_51
+  - first:
+      213: 8510237589403654274
+    second: PC Computer - Terraria - Merchant_52
+  - first:
+      213: -8411599501375145404
+    second: PC Computer - Terraria - Merchant_53
+  - first:
+      213: -5135057111464719958
+    second: PC Computer - Terraria - Merchant_54
+  - first:
+      213: -6655306494931252182
+    second: PC Computer - Terraria - Merchant_55
+  - first:
+      213: -3121637177835035564
+    second: PC Computer - Terraria - Merchant_56
+  - first:
+      213: 5138197161113419570
+    second: PC Computer - Terraria - Merchant_57
+  - first:
+      213: 8329461068845155813
+    second: PC Computer - Terraria - Merchant_58
+  - first:
+      213: 4639312848668398546
+    second: PC Computer - Terraria - Merchant_59
+  - first:
+      213: -8317917595458483590
+    second: PC Computer - Terraria - Merchant_60
+  - first:
+      213: -2312006739159732019
+    second: PC Computer - Terraria - Merchant_61
+  - first:
+      213: -1578430310449538778
+    second: PC Computer - Terraria - Merchant_62
+  - first:
+      213: -3583141506209619805
+    second: PC Computer - Terraria - Merchant_63
+  - first:
+      213: 9178852898009387002
+    second: PC Computer - Terraria - Merchant_64
+  - first:
+      213: 5087308440972084526
+    second: PC Computer - Terraria - Merchant_65
+  - first:
+      213: 407939951494982372
+    second: PC Computer - Terraria - Merchant_66
+  - first:
+      213: 3336571977313552150
+    second: PC Computer - Terraria - Merchant_67
+  - first:
+      213: 6129108860652402839
+    second: PC Computer - Terraria - Merchant_68
+  - first:
+      213: -1615446336365670858
+    second: PC Computer - Terraria - Merchant_69
+  - first:
+      213: 7394724011738574266
+    second: PC Computer - Terraria - Merchant_70
+  - first:
+      213: -8893078759289109835
+    second: PC Computer - Terraria - Merchant_71
+  - first:
+      213: 6415014920687808180
+    second: PC Computer - Terraria - Merchant_72
+  - first:
+      213: 207555831133276819
+    second: PC Computer - Terraria - Merchant_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 762
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4000776f77fbd5ee0800000000000000
+      internalID: -1270648997891604476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 762
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c796d725a045acf0800000000000000
+      internalID: -241715926912297023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 762
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee5ce0d3544f88c0800000000000000
+      internalID: -3994899217676214547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 762
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b84a7b8fb13ba750800000000000000
+      internalID: 6317197601065814199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 769
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aea72ea703d70690800000000000000
+      internalID: -7635902613243318622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 773
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f338daad0621360800000000000000
+      internalID: 7138874851665854276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 775
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c56f304f214b2c50800000000000000
+      internalID: 6641473746685093318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 706
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0c4dcff6da85580800000000000000
+      internalID: -8838123572219821910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 706
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca76b8a13f803ac0800000000000000
+      internalID: -3877441835719296310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 706
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0924ab0d9b84979c0800000000000000
+      internalID: -3929029236996029808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 706
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dcf45db85ec3220800000000000000
+      internalID: 2467099084634180871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 650
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3c2668d21a66a50800000000000000
+      internalID: 6514071127938220973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 650
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d73df628e911db0800000000000000
+      internalID: -4822899442878022260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 650
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed5ff0fc177f7e30800000000000000
+      internalID: 4503449118579842533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 650
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e043917dae0d9af40800000000000000
+      internalID: 5740348907110085646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 674
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce3db26e956a4e10800000000000000
+      internalID: 2182668700350234316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd182a4c39673e0800000000000000
+      internalID: -2056293707098759829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 674
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fff74cc9299b8d0800000000000000
+      internalID: -2830069688816369806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3316963686ee950800000000000000
+      internalID: 6480231690011751374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 674
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86245b91d9663e380800000000000000
+      internalID: -8943191610100465048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7840685bf0a0b3510800000000000000
+      internalID: 1529827561008661639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_21
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 674
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8a8b6a3ae20f250800000000000000
+      internalID: 5976327985932314791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c363b433fa405f190800000000000000
+      internalID: -7929426418389535172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 674
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2131693f2bfe11000800000000000000
+      internalID: 5048626473997074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_24
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ef0e64ceb1486f0800000000000000
+      internalID: -683390541838090602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 674
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c71b91838380fb0800000000000000
+      internalID: -4681429999051244535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb372658d44def40800000000000000
+      internalID: 5759335194425768922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 674
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cb7f500c79d6e90800000000000000
+      internalID: -7030796592265839583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_28
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ac8b53f76ea57d0800000000000000
+      internalID: -2928775173614548451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a002443677451cb0800000000000000
+      internalID: -4893926847059722079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 594
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11439b53af2e8dd50800000000000000
+      internalID: 6762404404767831057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_31
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 642
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37c93ad860e3fa50800000000000000
+      internalID: 6553828623696643902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_32
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 642
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14bdba4d9e6ffc10800000000000000
+      internalID: 2089510373966066717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 642
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed317192096862000800000000000000
+      internalID: 10844002837795806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 642
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5802e6048317010800000000000000
+      internalID: 1184790026351838688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 642
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d9765c426c2de60800000000000000
+      internalID: 7985662950514335061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_36
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 642
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb177e86e1482ee0800000000000000
+      internalID: -1285705235125822485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 594
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539126206c81c9b40800000000000000
+      internalID: 5448256887934032181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 594
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656e1d59621305cb0800000000000000
+      internalID: -4877344354650167722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 594
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d14efb82d6d1cd0800000000000000
+      internalID: -2585790589255279336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 538
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6b5b9b660ce40c0800000000000000
+      internalID: -4589519422809065808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 538
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0aa7b7466239760800000000000000
+      internalID: 7463351220493263027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 538
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9d7ae59b84cbe40800000000000000
+      internalID: 5673489591574190547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 538
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf397009ec25a3a30800000000000000
+      internalID: 4195757049982194684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 482
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d69a8be132da390800000000000000
+      internalID: -7805543964309099215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 482
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58f6a01871f82cf0800000000000000
+      internalID: -276705879105537954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 482
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f7b883b1e4adf80800000000000000
+      internalID: -8081060702543184050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 482
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dbea07badefe890800000000000000
+      internalID: -7426455939924968090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 426
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b6a824955b2ff10800000000000000
+      internalID: 2302101754512829283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 426
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065123662a4687240800000000000000
+      internalID: 4789688852370560352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_50
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 426
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a6001fb36702650800000000000000
+      internalID: 6206090286335027800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_51
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 426
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376165bb018ef99b0800000000000000
+      internalID: -5071079496835787149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 370
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288d4969fff6a1670800000000000000
+      internalID: 8510237589403654274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_53
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 370
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a7eafe1def34b80800000000000000
+      internalID: -8411599501375145404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_54
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 370
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa94dc983cc9cb8b0800000000000000
+      internalID: -5135057111464719958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 370
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cc542110a93a3a0800000000000000
+      internalID: -6655306494931252182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 314
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4546d71a687bda4d0800000000000000
+      internalID: -3121637177835035564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 314
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ff51e381b8e4740800000000000000
+      internalID: 5138197161113419570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 314
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e506f2f5b0389370800000000000000
+      internalID: 8329461068845155813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_59
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 314
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d319caa476226040800000000000000
+      internalID: 4639312848668398546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 258
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ac9b36402d09c80800000000000000
+      internalID: -8317917595458483590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 258
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0331ace1a1aefd0800000000000000
+      internalID: -2312006739159732019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 258
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62912fadef9481ae0800000000000000
+      internalID: -1578430310449538778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_63
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 258
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0ea6ec8cf164ec0800000000000000
+      internalID: -3583141506209619805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 202
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff0a6f3416d16f70800000000000000
+      internalID: 9178852898009387002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 202
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25ccf6c210c99640800000000000000
+      internalID: 5087308440972084526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 202
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea6c8a793b49a500800000000000000
+      internalID: 407939951494982372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_67
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 202
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6170c431982ed4e20800000000000000
+      internalID: 3336571977313552150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_68
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 146
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798b2ec0908fe0550800000000000000
+      internalID: 6129108860652402839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_69
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 146
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ec737bd18c499e0800000000000000
+      internalID: -1615446336365670858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_70
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 146
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdaabb4f465f9660800000000000000
+      internalID: 7394724011738574266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 146
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b240096cff659480800000000000000
+      internalID: -8893078759289109835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 90
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be6d680516b60950800000000000000
+      internalID: 6415014920687808180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Merchant_73
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 90
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a82c1cde261e200800000000000000
+      internalID: 207555831133276819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

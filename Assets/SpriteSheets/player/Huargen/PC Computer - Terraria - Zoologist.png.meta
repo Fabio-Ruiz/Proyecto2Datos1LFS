@@ -1,0 +1,1942 @@
+fileFormatVersion: 2
+guid: c89b108ba25de3c45bd864d2fe57ca17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5272743898832572978
+    second: PC Computer - Terraria - Zoologist_0
+  - first:
+      213: -1708903062051788459
+    second: PC Computer - Terraria - Zoologist_1
+  - first:
+      213: -644848156267300768
+    second: PC Computer - Terraria - Zoologist_2
+  - first:
+      213: -4660993303208622041
+    second: PC Computer - Terraria - Zoologist_3
+  - first:
+      213: 4906226212855378084
+    second: PC Computer - Terraria - Zoologist_4
+  - first:
+      213: -938792429831746829
+    second: PC Computer - Terraria - Zoologist_5
+  - first:
+      213: 2099095967706746177
+    second: PC Computer - Terraria - Zoologist_6
+  - first:
+      213: 4560627004746203790
+    second: PC Computer - Terraria - Zoologist_7
+  - first:
+      213: 3805900540803002588
+    second: PC Computer - Terraria - Zoologist_8
+  - first:
+      213: -4717757741744444742
+    second: PC Computer - Terraria - Zoologist_9
+  - first:
+      213: 7283240143138612523
+    second: PC Computer - Terraria - Zoologist_10
+  - first:
+      213: -8382682691474593421
+    second: PC Computer - Terraria - Zoologist_11
+  - first:
+      213: 6744764224109954250
+    second: PC Computer - Terraria - Zoologist_12
+  - first:
+      213: -8706580091331788966
+    second: PC Computer - Terraria - Zoologist_13
+  - first:
+      213: -5086774906531026481
+    second: PC Computer - Terraria - Zoologist_14
+  - first:
+      213: -2560963162860810362
+    second: PC Computer - Terraria - Zoologist_15
+  - first:
+      213: 6576079537983912222
+    second: PC Computer - Terraria - Zoologist_16
+  - first:
+      213: -3928834364162643455
+    second: PC Computer - Terraria - Zoologist_17
+  - first:
+      213: 3308853978424394273
+    second: PC Computer - Terraria - Zoologist_18
+  - first:
+      213: 4907725829816936214
+    second: PC Computer - Terraria - Zoologist_19
+  - first:
+      213: -276470735480535575
+    second: PC Computer - Terraria - Zoologist_20
+  - first:
+      213: -380372005904353603
+    second: PC Computer - Terraria - Zoologist_21
+  - first:
+      213: -6188391539501283502
+    second: PC Computer - Terraria - Zoologist_22
+  - first:
+      213: -3693710682575140621
+    second: PC Computer - Terraria - Zoologist_23
+  - first:
+      213: 1249731258987265519
+    second: PC Computer - Terraria - Zoologist_24
+  - first:
+      213: 8809389260907407313
+    second: PC Computer - Terraria - Zoologist_25
+  - first:
+      213: 2609797951404830405
+    second: PC Computer - Terraria - Zoologist_26
+  - first:
+      213: 8309751337253543365
+    second: PC Computer - Terraria - Zoologist_27
+  - first:
+      213: -6969874024165034041
+    second: PC Computer - Terraria - Zoologist_28
+  - first:
+      213: -400457610805750085
+    second: PC Computer - Terraria - Zoologist_29
+  - first:
+      213: -8441705961625958307
+    second: PC Computer - Terraria - Zoologist_30
+  - first:
+      213: -1616804455870012666
+    second: PC Computer - Terraria - Zoologist_31
+  - first:
+      213: 3386256497675769618
+    second: PC Computer - Terraria - Zoologist_32
+  - first:
+      213: 7998802983711247151
+    second: PC Computer - Terraria - Zoologist_33
+  - first:
+      213: 7783363857543650952
+    second: PC Computer - Terraria - Zoologist_34
+  - first:
+      213: 6516918838373585532
+    second: PC Computer - Terraria - Zoologist_35
+  - first:
+      213: 7289168639590718941
+    second: PC Computer - Terraria - Zoologist_36
+  - first:
+      213: -2478489312855015499
+    second: PC Computer - Terraria - Zoologist_37
+  - first:
+      213: -6406683970634694117
+    second: PC Computer - Terraria - Zoologist_38
+  - first:
+      213: -3379099856509475070
+    second: PC Computer - Terraria - Zoologist_39
+  - first:
+      213: 5508072603436712706
+    second: PC Computer - Terraria - Zoologist_40
+  - first:
+      213: -8715352857143676816
+    second: PC Computer - Terraria - Zoologist_41
+  - first:
+      213: -8806616219023352925
+    second: PC Computer - Terraria - Zoologist_42
+  - first:
+      213: 2701020379561966162
+    second: PC Computer - Terraria - Zoologist_43
+  - first:
+      213: 7320154255395096668
+    second: PC Computer - Terraria - Zoologist_44
+  - first:
+      213: 5874471666416900887
+    second: PC Computer - Terraria - Zoologist_45
+  - first:
+      213: 131189442699304047
+    second: PC Computer - Terraria - Zoologist_46
+  - first:
+      213: 3899353441035155017
+    second: PC Computer - Terraria - Zoologist_47
+  - first:
+      213: 6368292580275263483
+    second: PC Computer - Terraria - Zoologist_48
+  - first:
+      213: 759320423498225827
+    second: PC Computer - Terraria - Zoologist_49
+  - first:
+      213: 1140196301517754773
+    second: PC Computer - Terraria - Zoologist_50
+  - first:
+      213: 4552107996654396444
+    second: PC Computer - Terraria - Zoologist_51
+  - first:
+      213: 7747282985296018627
+    second: PC Computer - Terraria - Zoologist_52
+  - first:
+      213: 7136198247431995626
+    second: PC Computer - Terraria - Zoologist_53
+  - first:
+      213: 428465792594271505
+    second: PC Computer - Terraria - Zoologist_54
+  - first:
+      213: -5529023920052302496
+    second: PC Computer - Terraria - Zoologist_55
+  - first:
+      213: -3960326733876966535
+    second: PC Computer - Terraria - Zoologist_56
+  - first:
+      213: -8243905526267275321
+    second: PC Computer - Terraria - Zoologist_57
+  - first:
+      213: -2590670316718912367
+    second: PC Computer - Terraria - Zoologist_58
+  - first:
+      213: 7658378679297207425
+    second: PC Computer - Terraria - Zoologist_59
+  - first:
+      213: -1214438494257006884
+    second: PC Computer - Terraria - Zoologist_60
+  - first:
+      213: -3349375608273637078
+    second: PC Computer - Terraria - Zoologist_61
+  - first:
+      213: 7227256872871081984
+    second: PC Computer - Terraria - Zoologist_62
+  - first:
+      213: -9122251825482472643
+    second: PC Computer - Terraria - Zoologist_63
+  - first:
+      213: -5938258600334084876
+    second: PC Computer - Terraria - Zoologist_64
+  - first:
+      213: -6588528971487854438
+    second: PC Computer - Terraria - Zoologist_65
+  - first:
+      213: -6762808854594184290
+    second: PC Computer - Terraria - Zoologist_66
+  - first:
+      213: -5736537560987350685
+    second: PC Computer - Terraria - Zoologist_67
+  - first:
+      213: -4089429283867158906
+    second: PC Computer - Terraria - Zoologist_68
+  - first:
+      213: 8219540568877459368
+    second: PC Computer - Terraria - Zoologist_69
+  - first:
+      213: -4728470841628352399
+    second: PC Computer - Terraria - Zoologist_70
+  - first:
+      213: -2784025777504307828
+    second: PC Computer - Terraria - Zoologist_71
+  - first:
+      213: 5375988276168873225
+    second: PC Computer - Terraria - Zoologist_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 760
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecde9763c5373d6b0800000000000000
+      internalID: -5272743898832572978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 760
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55963de18b1c848e0800000000000000
+      internalID: -1708903062051788459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 760
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0683f97b40a0d07f0800000000000000
+      internalID: -644848156267300768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 759
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72886c52943d05fb0800000000000000
+      internalID: -4660993303208622041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 782
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a074fc0fba661440800000000000000
+      internalID: 4906226212855378084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 788
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa8d0e424db8f2f0800000000000000
+      internalID: -938792429831746829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 788
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d8d9049ac712d10800000000000000
+      internalID: 2099095967706746177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 758
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8283faf81a9a4f30800000000000000
+      internalID: 4560627004746203790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 747
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0b709906641d430800000000000000
+      internalID: 3805900540803002588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 758
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba29f26458278eb0800000000000000
+      internalID: -4717757741744444742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 702
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2564a96254431560800000000000000
+      internalID: 7283240143138612523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 702
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37967d5618abaab80800000000000000
+      internalID: -8382682691474593421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 702
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac446d793573a9d50800000000000000
+      internalID: 6744764224109954250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 701
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f3eaf49830c2780800000000000000
+      internalID: -8706580091331788966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 644
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9e8d36c252869b0800000000000000
+      internalID: -5086774906531026481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 644
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f02da6291a57cd0800000000000000
+      internalID: -2560963162860810362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 644
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19fe3c8f7de24b50800000000000000
+      internalID: 6576079537983912222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 643
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aecbe26f9f979c0800000000000000
+      internalID: -3928834364162643455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 674
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122cf9d89296bed20800000000000000
+      internalID: 3308853978424394273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6176f35d3aebb1440800000000000000
+      internalID: 4907725829816936214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_20
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 674
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e544e4b457c92cf0800000000000000
+      internalID: -276470735480535575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_21
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db671990da5a8baf0800000000000000
+      internalID: -380372005904353603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 674
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2574efcaeaa6e1aa0800000000000000
+      internalID: -6188391539501283502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f80b0e44bd4dbcc0800000000000000
+      internalID: -3693710682575140621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_24
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 674
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed33ac65ffe75110800000000000000
+      internalID: 1249731258987265519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_25
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7e680dbdc314a70800000000000000
+      internalID: 8809389260907407313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_26
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 674
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cee605d86dd73420800000000000000
+      internalID: 2609797951404830405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_27
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd13d470da225370800000000000000
+      internalID: 8309751337253543365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 674
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7bb64c088064f90800000000000000
+      internalID: -6969874024165034041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_29
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb65258bce9417af0800000000000000
+      internalID: -400457610805750085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_30
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 674
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58ccfa672909da80800000000000000
+      internalID: -8441705961625958307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6036990e9e4ff89e0800000000000000
+      internalID: -1616804455870012666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217925ee7566efe20800000000000000
+      internalID: 3386256497675769618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 642
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b81782fe4710f60800000000000000
+      internalID: 7998802983711247151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_34
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 642
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ed08eb030140c60800000000000000
+      internalID: 7783363857543650952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 642
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c721f47c72fb07a50800000000000000
+      internalID: 6516918838373585532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_36
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 642
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddd8be0244582560800000000000000
+      internalID: 7289168639590718941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_37
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 642
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfbcaff913aa9dd0800000000000000
+      internalID: -2478489312855015499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 642
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12412e6fd2e617a0800000000000000
+      internalID: -6406683970634694117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 586
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207ed2075960b11d0800000000000000
+      internalID: -3379099856509475070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 586
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20308ec89da907c40800000000000000
+      internalID: 5508072603436712706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 586
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070f3c990c8dc0780800000000000000
+      internalID: -8715352857143676816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_42
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 585
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab5bef453d98c580800000000000000
+      internalID: -8806616219023352925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 528
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ab1ee79b3fb7520800000000000000
+      internalID: 2701020379561966162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 528
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5883ede289669560800000000000000
+      internalID: 7320154255395096668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 528
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b50e73bd0568150800000000000000
+      internalID: 5874471666416900887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_46
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 527
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c9f526a1412d100800000000000000
+      internalID: 131189442699304047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 470
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946f8928b494d1630800000000000000
+      internalID: 3899353441035155017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 470
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf710117c58b06850800000000000000
+      internalID: 6368292580275263483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_49
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 470
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a89f41f6e5a98a00800000000000000
+      internalID: 759320423498225827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 469
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5911e26ce7ac2df00800000000000000
+      internalID: 1140196301517754773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 412
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14ecc7da165c2f30800000000000000
+      internalID: 4552107996654396444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_52
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 412
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc3ff804d0e38b60800000000000000
+      internalID: 7747282985296018627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_53
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 412
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae003f03f7ed80360800000000000000
+      internalID: 7136198247431995626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 411
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ddcf54e5732f500800000000000000
+      internalID: 428465792594271505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 354
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d05aae906f443b0800000000000000
+      internalID: -5529023920052302496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_56
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 354
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bc7c871d71a09c0800000000000000
+      internalID: -3960326733876966535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 354
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c795f81a93c79d80800000000000000
+      internalID: -8243905526267275321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 353
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c02d9a2171c0cd0800000000000000
+      internalID: -2590670316718912367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 296
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c6fee35d6084a60800000000000000
+      internalID: 7658378679297207425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_60
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd63044bf92752fe0800000000000000
+      internalID: -1214438494257006884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_61
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 296
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21fd7941a0a481d0800000000000000
+      internalID: -3349375608273637078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 295
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0083bff85df5c4460800000000000000
+      internalID: 7227256872871081984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 238
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d336576eb40476180800000000000000
+      internalID: -9122251825482472643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_64
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 238
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4bda6e341179da0800000000000000
+      internalID: -5938258600334084876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 180
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90c816dec7d094a0800000000000000
+      internalID: -6588528971487854438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_66
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 180
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b1c0a7d2da522a0800000000000000
+      internalID: -6762808854594184290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_67
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 122
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369c9a45b79b360b0800000000000000
+      internalID: -5736537560987350685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_68
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 122
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6869409abbd6f37c0800000000000000
+      internalID: -4089429283867158906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a76ad0399ca11270800000000000000
+      internalID: 8219540568877459368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_70
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 64
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17023f172d8116eb0800000000000000
+      internalID: -4728470841628352399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8533564e472d59d0800000000000000
+      internalID: -2784025777504307828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Zoologist_72
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 6
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905d5bd9ad85b9a40800000000000000
+      internalID: 5375988276168873225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

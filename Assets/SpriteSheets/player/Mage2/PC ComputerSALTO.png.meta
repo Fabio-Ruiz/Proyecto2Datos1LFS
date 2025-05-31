@@ -1,0 +1,1867 @@
+fileFormatVersion: 2
+guid: d53a71fc4ea232c4c98f91eb2787319e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2333413186313856156
+    second: PC ComputerSALTO_0
+  - first:
+      213: -8414341802109044086
+    second: PC ComputerSALTO_1
+  - first:
+      213: 8750920251997207917
+    second: PC ComputerSALTO_2
+  - first:
+      213: 3587014163139126637
+    second: PC ComputerSALTO_3
+  - first:
+      213: -3512949296796070040
+    second: PC ComputerSALTO_4
+  - first:
+      213: 2982532768262146018
+    second: PC ComputerSALTO_5
+  - first:
+      213: -8784677227549647358
+    second: PC ComputerSALTO_6
+  - first:
+      213: -8364286095554885501
+    second: PC ComputerSALTO_7
+  - first:
+      213: -658312156409183807
+    second: PC ComputerSALTO_8
+  - first:
+      213: 3327636139684785172
+    second: PC ComputerSALTO_9
+  - first:
+      213: -5574450367263476184
+    second: PC ComputerSALTO_10
+  - first:
+      213: -6943113908155323229
+    second: PC ComputerSALTO_11
+  - first:
+      213: -123133307541149447
+    second: PC ComputerSALTO_12
+  - first:
+      213: 293163846419311316
+    second: PC ComputerSALTO_13
+  - first:
+      213: -1182939646295745638
+    second: PC ComputerSALTO_14
+  - first:
+      213: -4266225851495191826
+    second: PC ComputerSALTO_15
+  - first:
+      213: 4682920535170574091
+    second: PC ComputerSALTO_16
+  - first:
+      213: -7426153148668201745
+    second: PC ComputerSALTO_17
+  - first:
+      213: 8434221236837454738
+    second: PC ComputerSALTO_18
+  - first:
+      213: -4767394793291880987
+    second: PC ComputerSALTO_19
+  - first:
+      213: 2497284776817058932
+    second: PC ComputerSALTO_20
+  - first:
+      213: -5026455504465652781
+    second: PC ComputerSALTO_21
+  - first:
+      213: 975913260137100346
+    second: PC ComputerSALTO_22
+  - first:
+      213: -740741593084228720
+    second: PC ComputerSALTO_23
+  - first:
+      213: 3036323358888584785
+    second: PC ComputerSALTO_24
+  - first:
+      213: -2101034639853553932
+    second: PC ComputerSALTO_25
+  - first:
+      213: -6117443628262545547
+    second: PC ComputerSALTO_26
+  - first:
+      213: -5081078093208699380
+    second: PC ComputerSALTO_27
+  - first:
+      213: -6514363980269998844
+    second: PC ComputerSALTO_28
+  - first:
+      213: -4340886416441151971
+    second: PC ComputerSALTO_29
+  - first:
+      213: -2828145186833996491
+    second: PC ComputerSALTO_30
+  - first:
+      213: -4674826151824802918
+    second: PC ComputerSALTO_31
+  - first:
+      213: 8561417922053901355
+    second: PC ComputerSALTO_32
+  - first:
+      213: -8304843306564347956
+    second: PC ComputerSALTO_33
+  - first:
+      213: -3513492947166953148
+    second: PC ComputerSALTO_34
+  - first:
+      213: -8519450704621667158
+    second: PC ComputerSALTO_35
+  - first:
+      213: 4821592461691491013
+    second: PC ComputerSALTO_36
+  - first:
+      213: 2424883803674425235
+    second: PC ComputerSALTO_37
+  - first:
+      213: 1743458086628110634
+    second: PC ComputerSALTO_38
+  - first:
+      213: -4053006860122237897
+    second: PC ComputerSALTO_39
+  - first:
+      213: 7029735528131750556
+    second: PC ComputerSALTO_40
+  - first:
+      213: -664710244176031259
+    second: PC ComputerSALTO_41
+  - first:
+      213: -6216468978185552114
+    second: PC ComputerSALTO_42
+  - first:
+      213: 7434329346515943841
+    second: PC ComputerSALTO_43
+  - first:
+      213: -3914190716147835168
+    second: PC ComputerSALTO_44
+  - first:
+      213: -4576520774809523375
+    second: PC ComputerSALTO_45
+  - first:
+      213: -3673566083659037263
+    second: PC ComputerSALTO_46
+  - first:
+      213: -4580413812453410679
+    second: PC ComputerSALTO_47
+  - first:
+      213: -6663138726175457597
+    second: PC ComputerSALTO_48
+  - first:
+      213: 7483272884542895278
+    second: PC ComputerSALTO_49
+  - first:
+      213: -7539468863671037950
+    second: PC ComputerSALTO_50
+  - first:
+      213: -3105774836944724811
+    second: PC ComputerSALTO_51
+  - first:
+      213: -8070106424334686828
+    second: PC ComputerSALTO_52
+  - first:
+      213: -4938910374496142675
+    second: PC ComputerSALTO_53
+  - first:
+      213: -11278883473491607
+    second: PC ComputerSALTO_54
+  - first:
+      213: 3931309719406889828
+    second: PC ComputerSALTO_55
+  - first:
+      213: 3024998211655158081
+    second: PC ComputerSALTO_56
+  - first:
+      213: -1548587456051179520
+    second: PC ComputerSALTO_57
+  - first:
+      213: -9146471032632744667
+    second: PC ComputerSALTO_58
+  - first:
+      213: -8270850321921295938
+    second: PC ComputerSALTO_59
+  - first:
+      213: 4376621468988972147
+    second: PC ComputerSALTO_60
+  - first:
+      213: 8910542150440700618
+    second: PC ComputerSALTO_61
+  - first:
+      213: -7135331553657715609
+    second: PC ComputerSALTO_62
+  - first:
+      213: -8777679939173369693
+    second: PC ComputerSALTO_63
+  - first:
+      213: 2951162904613465144
+    second: PC ComputerSALTO_64
+  - first:
+      213: -7598633344018428572
+    second: PC ComputerSALTO_65
+  - first:
+      213: 2164549975329193928
+    second: PC ComputerSALTO_66
+  - first:
+      213: -7139098732562535
+    second: PC ComputerSALTO_67
+  - first:
+      213: -4490174350354135212
+    second: PC ComputerSALTO_68
+  - first:
+      213: -9145088175219958404
+    second: PC ComputerSALTO_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC ComputerSALTO_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 780
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bdc8be11d0e9fd0800000000000000
+      internalID: -2333413186313856156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 780
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8af19a46b04a3b80800000000000000
+      internalID: -8414341802109044086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 780
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6db016da93817970800000000000000
+      internalID: 8750920251997207917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 780
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65e3366062a7c130800000000000000
+      internalID: 3587014163139126637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 800
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f038a1a3f7f3fc0800000000000000
+      internalID: -3512949296796070040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 808
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74a3720c5146920800000000000000
+      internalID: 2982532768262146018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 808
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e9071da9e861680800000000000000
+      internalID: -8784677227549647358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 716
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38846baac161ceb80800000000000000
+      internalID: -8364286095554885501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 716
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1c8e5e4943dd6f0800000000000000
+      internalID: -658312156409183807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 716
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ce9af30732e2e20800000000000000
+      internalID: 3327636139684785172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 716
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826f639fce293a2b0800000000000000
+      internalID: -5574450367263476184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 652
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ace35dcfaa15af90800000000000000
+      internalID: -6943113908155323229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 652
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8adffb8ea8a4ef0800000000000000
+      internalID: -123133307541149447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 652
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da6fce07f6811400800000000000000
+      internalID: 293163846419311316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 652
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bd0dfb8aa559fe0800000000000000
+      internalID: -1182939646295745638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 698
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea6a0601325bc4c0800000000000000
+      internalID: -4266225851495191826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 682
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0769326a631df040800000000000000
+      internalID: 4682920535170574091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 698
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4bbf58e0101f890800000000000000
+      internalID: -7426153148668201745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 682
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29390ca478f5c0570800000000000000
+      internalID: 8434221236837454738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 698
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e56ac9b1bfc6ddb0800000000000000
+      internalID: -4767394793291880987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 682
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474eb29f54328a220800000000000000
+      internalID: 2497284776817058932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_21
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 698
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3940999517e3ab0800000000000000
+      internalID: -5026455504465652781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 682
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34b01280f32b8d00800000000000000
+      internalID: 975913260137100346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 698
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b8bd9127b58b5f0800000000000000
+      internalID: -740741593084228720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_24
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 682
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15666cdf100332a20800000000000000
+      internalID: 3036323358888584785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 698
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6fcb67020a7d2e0800000000000000
+      internalID: -2101034639853553932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 682
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5772fe38e697a1ba0800000000000000
+      internalID: -6117443628262545547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 698
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eb64a15626c79b0800000000000000
+      internalID: -5081078093208699380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_28
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 682
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d286a79745895a0800000000000000
+      internalID: -6514363980269998844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 682
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ee4b1adc212c3c0800000000000000
+      internalID: -4340886416441151971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 666
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535678dcfe860c8d0800000000000000
+      internalID: -2828145186833996491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 666
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bb6c9126eaf1fb0800000000000000
+      internalID: -4674826151824802918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 666
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c8fa16d3440d670800000000000000
+      internalID: 8561417922053901355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_33
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 666
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc793fc73054fbc80800000000000000
+      internalID: -8304843306564347956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_34
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 666
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4410643a7c09d3fc0800000000000000
+      internalID: -3513492947166953148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_35
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 666
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacf29dd8b4d4c980800000000000000
+      internalID: -8519450704621667158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 588
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c292da4cccb9e240800000000000000
+      internalID: 4821592461691491013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 588
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397bc9bc8fae6a120800000000000000
+      internalID: 2424883803674425235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 588
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21304e74e1023810800000000000000
+      internalID: 1743458086628110634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 588
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73451360cb3d0c7c0800000000000000
+      internalID: -4053006860122237897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 524
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a6c3bb733ae8160800000000000000
+      internalID: 7029735528131750556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_41
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 524
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e113510e8976c6f0800000000000000
+      internalID: -664710244176031259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_42
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 524
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fb30e866aaab9a0800000000000000
+      internalID: -6216468978185552114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 524
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a14852e62b0c2760800000000000000
+      internalID: 7434329346515943841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 460
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee50ec28400ea9c0800000000000000
+      internalID: -3914190716147835168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 460
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b684e4a9eec70c0800000000000000
+      internalID: -4576520774809523375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_46
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 460
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5849c3c1fd40dc0800000000000000
+      internalID: -3673566083659037263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 460
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988fb68d7e91f60c0800000000000000
+      internalID: -4580413812453410679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 396
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceb921a1a6c783a0800000000000000
+      internalID: -6663138726175457597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 396
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4fd785a0de9d760800000000000000
+      internalID: 7483272884542895278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_50
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 396
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20015c9a30d6e5790800000000000000
+      internalID: -7539468863671037950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_51
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 396
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc109bad3216e4d0800000000000000
+      internalID: -3105774836944724811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 332
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495eeedd6f8310090800000000000000
+      internalID: -8070106424334686828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 332
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa7aae8e27757bb0800000000000000
+      internalID: -4938910374496142675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_54
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 332
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969791d4aede7dff0800000000000000
+      internalID: -11278883473491607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 332
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bc94f5c51de8630800000000000000
+      internalID: 3931309719406889828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 268
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149c5eba8d3faf920800000000000000
+      internalID: 3024998211655158081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_57
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 268
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000917ad9ef428ae0800000000000000
+      internalID: -1548587456051179520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 268
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525668f4e05311180800000000000000
+      internalID: -9146471032632744667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 268
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9b47bf379083d80800000000000000
+      internalID: -8270850321921295938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 204
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c9f67a902ecbc30800000000000000
+      internalID: 4376621468988972147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 204
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acac92130ea98ab70800000000000000
+      internalID: 8910542150440700618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_62
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 204
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764889da1c53afc90800000000000000
+      internalID: -7135331553657715609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_63
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 204
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8bf79f99a6f2680800000000000000
+      internalID: -8777679939173369693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 140
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cabcb9603a4f820800000000000000
+      internalID: 2951162904613465144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_65
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 140
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dc75f9b3b3c8690800000000000000
+      internalID: -7598633344018428572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 76
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfb31afbb60a0e10800000000000000
+      internalID: 2164549975329193928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 76
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997770c0703a6eff0800000000000000
+      internalID: -7139098732562535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4574293e732bfa1c0800000000000000
+      internalID: -4490174350354135212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC ComputerSALTO_69
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 12
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d9364e1ce161180800000000000000
+      internalID: -9145088175219958404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
